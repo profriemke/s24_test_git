@@ -1,1 +1,1 @@
-# s24_test_git
+# Demo-Git im Sommer 24
