@@ -1,1 +1,1 @@
-# Demo-Git im Sommer 24
+# Git-Demo im Sommer 24
